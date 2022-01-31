@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Bom Controle - ERP](https://bomcontrole.com.br/)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/FlavioJunior25](https ://github.com/FlavioJunior25)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/FlavioJunior25]
 
 - 📫 Como me contatar **flaviojunior251093@gmail.com**
 
