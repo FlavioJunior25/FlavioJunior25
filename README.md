@@ -3,7 +3,7 @@
 
 <p align="left" "> <img src="https://komarev.com/ghpvc/?username=flaviojunior25&label=Profile%20views&color=0e75b6&style=flat" alt="flaviojunior25" /> </p>
 
-<p align="left"> < a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviojunior25" alt="flaviojunior25" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviojunior25" alt="flaviojunior25" /></a> </p>
 
 - 🔭 Atualmente estou trabalhando no [Bom Controle - ERP](https://bomcontrole.com.br/)
 
