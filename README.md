@@ -11,7 +11,7 @@
 
 - 📫 Como me contatar **flaviojunior251093@gmail.com**
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/flavio-junior-a53b5794/] (https://www.linkedin.com/in/flavio-junior-a53b5794/)
+- 📄 Conheça minhas experiências [https://www.linkedin.com/in/flavio-junior-a53b5794/] 
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
