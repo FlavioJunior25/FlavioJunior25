@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviojunior25" alt="flaviojunior25" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando no [Bom Controle - ERP](https://bomcontrole.com.br/)
+- 🔭 Atualmente estou trabalhando na [Bom Controle - ERP](https://bomcontrole.com.br/)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/FlavioJunior25](https ://github.com/FlavioJunior25)
 
