@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, sou Flavio Junior</h1>
-<h3 align="center">Programador dedicado ao trabalho com conhecimentos e experiências em C#, .Net, ORMs, Banco de dados Relacionais e Etc. Trabalhei em vários projetos utilizando as tecnologias citadas.</h3>
+<h3 align="center">Programador com conhecimentos e experiências em C#, .Net, ORMs, Banco de dados Relacionais e Etc. Trabalhei em vários projetos utilizando as tecnologias citadas.</h3>
 
 <p align="left" "> <img src="https://komarev.com/ghpvc/?username=flaviojunior25&label=Profile%20views&color=0e75b6&style=flat" alt="flaviojunior25" /> </p>
 
