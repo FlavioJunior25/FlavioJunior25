@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flaviojunior25" alt="flaviojunior25" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando na [ItBeta2](http://www.betait.com.br)
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/FlavioJunior25]
 
